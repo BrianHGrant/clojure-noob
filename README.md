@@ -1,6 +1,6 @@
 # clojure-noob
 
-FIXME: description
+FIXME: basic clojure app, hello world
 
 ## Installation
 
